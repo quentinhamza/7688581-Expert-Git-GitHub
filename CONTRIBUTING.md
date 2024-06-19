@@ -9,9 +9,6 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 
 ## Comment contribuer ?
 
-Je crois qu'il faut push en vrai
-Je sais pas
-
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
 - Chaque issue est catégorisée et nous demandons à ce qu'une première contribution soit obligatoire une issue de type "good first issue".  
